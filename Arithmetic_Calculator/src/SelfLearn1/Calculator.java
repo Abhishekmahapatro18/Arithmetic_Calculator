@@ -35,7 +35,7 @@ class Arithmetic_Calculator
         } 
         else 
         {
-            throw new ArithmeticException("Error: Cannot divide by zero!");
+            throw new ArithmeticException("Error: Cannot divide by zero!!!");
         }
     }
 }
